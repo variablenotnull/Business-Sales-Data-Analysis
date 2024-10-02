@@ -1,46 +1,46 @@
 # Business-Sales-Data-Analysis
 
-The Power BI dashboard provides a comprehensive overview of a business sales data insights across multiple sector. It covers retail finance, credit insurance, loans, leases, pre-approved and auto-approved applications, expired applications, and e-signature adoption. The dashboard displays key performance indicators (KPIs) for each segment, offering insights into application volumes, approval rates, financial metrics, and operational efficiency.
+The Power BI dashboard provides a comprehensive overview of a business sales data insights across multiple sector. It covers retail finance, credit insurance, loans, leases, pre-approved and auto-approved applications, expired applications, and e-signature adoption. The dashboard displays key performance indicators (KPIs) for each segment, offering insights into application volumes, approval rates, financial metrics, and operational efficiency.<br><br>
 
-Key Objectives
+<b> <h1> Key Objectives </h1> </b> <br>
 
 Based on the dashboard, the company's key objectives appear to be:
-Maintain high approval rates while managing risk.
-Grow the credit insurance portfolio while keeping claims ratios in check.
-Expand the loan and lease portfolios while maintaining asset quality.
-Increase pre-approved and auto-approved applications to streamline processes.
-Minimize application expirations to capture more business opportunities.
-Further increase e-sign adoption to improve efficiency and customer experience.
-The dashboard effectively tracks these objectives, providing a clear picture of the company's performance across various financial products and operational processes.
+Maintain high approval rates while managing risk.<br>
+Grow the credit insurance portfolio while keeping claims ratios in check.<br>
+Expand the loan and lease portfolios while maintaining asset quality.<br>
+Increase pre-approved and auto-approved applications to streamline processes.<br>
+Minimize application expirations to capture more business opportunities.<br>
+Further increase e-sign adoption to improve efficiency and customer experience.<br>
+The dashboard effectively tracks these objectives, providing a clear picture of the company's performance across various financial products and operational processes.<br>
 
-Insights
+<b> <h1>  Insights </h1> </b><br>
 The dashboard provides a comprehensive view of the company's financial products and processes. Key insights include:
-High approval rates (80%) in retail finance, indicating effective pre-screening.
-Strong credit insurance performance with a 45% claims ratio.
-Healthy loan portfolio with a low non-performing loan ratio of 2.5%.
-Leasing operations show steady income and low early termination rates.
-Pre-approved and auto-approved processes are streamlining customer acquisition.
-Low expiration rates (5%) suggest efficient application processing.
-High e-sign adoption (85%) is improving efficiency and reducing costs.
+High approval rates (80%) in retail finance, indicating effective pre-screening.<br>
+Strong credit insurance performance with a 45% claims ratio.<br>
+Healthy loan portfolio with a low non-performing loan ratio of 2.5%.<br>
+Leasing operations show steady income and low early termination rates.<br>
+Pre-approved and auto-approved processes are streamlining customer acquisition.<br>
+Low expiration rates (5%) suggest efficient application processing.<br>
+High e-sign adoption (85%) is improving efficiency and reducing costs.<br>
 
 Retail Finance
 This section provides an overview of retail financing activities:
-Total Applications: 1,234
-Approved Applications: 987
-Rejected Applications: 247
-Approval Rate: 80%
-Average Ticket Size: $15,000
-The dashboard includes charts showing application trends over time and approval rates by product type.
+Total Applications: 1,234<br>
+Approved Applications: 987<br>
+Rejected Applications: 247<br>
+Approval Rate: 80%<br>
+Average Ticket Size: $15,000<br>
+The dashboard includes charts showing application trends over time and approval rates by product type.<br>
 ![2](https://github.com/user-attachments/assets/881255bf-2d1e-4454-83e3-79bf6cd9940e)
 
-Credit Insurance
-This segment focuses on credit insurance products:
-Total Policies: 5,678
-New Policies: 789
-Renewed Policies: 4,889
-Premium Income: $2.3M
-Claims Ratio: 45%
-Visualizations display policy distribution by type and premium income trends.
+Credit Insurance<br>
+This segment focuses on credit insurance products:<br>
+Total Policies: 5,678<br>
+New Policies: 789<br>
+Renewed Policies: 4,889<br>
+Premium Income: $2.3M<br>
+Claims Ratio: 45%<br>
+Visualizations display policy distribution by type and premium income trends.<br>
 ![3](https://github.com/user-attachments/assets/cd140d62-c0ee-4f7c-a0ed-146d21e67f04)
 
 
@@ -102,8 +102,6 @@ Charts show expiration trends and reasons for expiration.
 ![8](https://github.com/user-attachments/assets/0d1b5f97-6ad2-44e1-a475-3a85c3744e6c)
 
 
-
-
 E-Sign
 The e-signature process is summarized here:
 Total E-Signed Documents: 4,567
@@ -112,4 +110,7 @@ Average Completion Time: 2 hours
 Paper Savings: $50K
 Visualizations display e-sign trends and adoption rates by document type.
 ![9](https://github.com/user-attachments/assets/f359fde1-3358-4427-a2df-51d478258b97)
+
+
+LINK TO DASHBOARD: https://app.powerbi.com/view?r=eyJrIjoiYTY4MzE2YmEtMThhNS00YWI2LTgyNDUtZDczNzNjMTRmYjZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
