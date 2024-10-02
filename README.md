@@ -2,9 +2,9 @@
 
 The Power BI dashboard provides a comprehensive overview of a business sales data insights across multiple sector. It covers retail finance, credit insurance, loans, leases, pre-approved and auto-approved applications, expired applications, and e-signature adoption. The dashboard displays key performance indicators (KPIs) for each segment, offering insights into application volumes, approval rates, financial metrics, and operational efficiency.<br><br>
 
-<b> <h1> Key Objectives </h1> </b> <br>
+<b> <h1> Key Objectives </h1> </b> 
 
-Based on the dashboard, the company's key objectives appear to be:
+Based on the dashboard, the company's key objectives appear to be:<br>
 Maintain high approval rates while managing risk.<br>
 Grow the credit insurance portfolio while keeping claims ratios in check.<br>
 Expand the loan and lease portfolios while maintaining asset quality.<br>
@@ -13,7 +13,7 @@ Minimize application expirations to capture more business opportunities.<br>
 Further increase e-sign adoption to improve efficiency and customer experience.<br>
 The dashboard effectively tracks these objectives, providing a clear picture of the company's performance across various financial products and operational processes.<br>
 
-<b> <h1>  Insights </h1> </b><br>
+<b> <h1>  Insights </h1> </b>
 The dashboard provides a comprehensive view of the company's financial products and processes. Key insights include:
 High approval rates (80%) in retail finance, indicating effective pre-screening.<br>
 Strong credit insurance performance with a 45% claims ratio.<br>
@@ -23,7 +23,7 @@ Pre-approved and auto-approved processes are streamlining customer acquisition.<
 Low expiration rates (5%) suggest efficient application processing.<br>
 High e-sign adoption (85%) is improving efficiency and reducing costs.<br>
 
-<b> <h1>  Retail Finance </h1> </b><br>
+<b> <h1>  Retail Finance </h1> </b>
 This section provides an overview of retail financing activities:<br>
 Total Applications: 1,234<br>
 Approved Applications: 987<br>
@@ -34,7 +34,7 @@ The dashboard includes charts showing application trends over time and approval 
 
 ![2](https://github.com/user-attachments/assets/881255bf-2d1e-4454-83e3-79bf6cd9940e)
 
-<b> <h1> Credit Insurance</h1> </b><br>
+<b> <h1> Credit Insurance</h1> </b>
 This segment focuses on credit insurance products:<br>
 Total Policies: 5,678<br>
 New Policies: 789<br>
@@ -46,7 +46,7 @@ Visualizations display policy distribution by type and premium income trends.<br
 ![3](https://github.com/user-attachments/assets/cd140d62-c0ee-4f7c-a0ed-146d21e67f04)
 
 
-<b> <h1> Loan </h1> </b><br>
+<b> <h1> Loan </h1> </b>
 The loan section highlights key loan metrics:<br>
 Total Loan Amount: $50M<br>
 Number of Loans: 3,456<br>
@@ -59,7 +59,7 @@ Graphs show loan distribution by purpose and interest income over time.<br>
 
 
 
-<b> <h1> Lease </h1> </b><br>
+<b> <h1> Lease </h1> </b>
 This part covers leasing operations:<br>
 Total Lease Value: $30M<br>
 Number of Leases: 2,345<br>
@@ -72,7 +72,7 @@ Charts display lease distribution by asset type and income trends.<br>
 
 
 
-<b> <h1> Pre-Approved </h1> </b><br>
+<b> <h1> Pre-Approved </h1> </b>
 Pre-approved applications are summarized here:<br>
 Total Pre-Approved: 567<br>
 Conversion Rate: 65%<br>
@@ -85,7 +85,7 @@ Visualizations show pre-approval trends and distribution by product.<br>
 
 
 
-<b> <h1> Auto-Approved </h1> </b><br>
+<b> <h1> Auto-Approved </h1> </b>
 This section focuses on auto-approved applications:<br>
 Total Auto-Approved: 789<br>
 Auto-Approval Rate: 30%<br>
@@ -96,7 +96,7 @@ Graphs display auto-approval trends and distribution by customer segment.<br>
 ![7](https://github.com/user-attachments/assets/8b675c3c-381e-4dea-b62b-0f2828016370)
 
 
-<b> <h1> Expired Applications </h1> </b><br>
+<b> <h1> Expired Applications </h1> </b>
 Expired applications are analyzed in this part:<br>
 Total Expired: 123<br>
 Expiration Rate: 5%<br>
@@ -107,7 +107,7 @@ Charts show expiration trends and reasons for expiration.<br>
 ![8](https://github.com/user-attachments/assets/0d1b5f97-6ad2-44e1-a475-3a85c3744e6c)
 
 
-<b> <h1> E-Sign </h1> </b><br>
+<b> <h1> E-Sign </h1> </b>
 The e-signature process is summarized here:<br>
 Total E-Signed Documents: 4,567<br>
 E-Sign Adoption Rate: 85%<br>
